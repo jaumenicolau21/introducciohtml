@@ -1,0 +1,52 @@
+
+.Taula{
+    border-color: black;
+}
+.Dies {
+    background-color:lightblue;
+       
+}
+.Hora {
+    background-color: rgb(103, 103, 237);
+    
+}
+.Serv {
+    background-color:lightcoral;
+}
+.Seg {
+    background-color: lightgreen;
+}
+.Sistem {
+    background-color: lightyellow;
+}
+.Apl {
+    background-color:lightpink;
+}
+.Eie{
+    background-color:tomato;
+}
+.Desc {
+    background-color: rgb(100, 100, 232);
+}
+.Ho {
+    background-color:rgb(103, 103, 237);
+}
+.tit {
+    background-color:rgb(103, 103, 237);
+}
+th {
+    border-width: 2px;
+    border-color:grey;
+    text-align: center;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+}
+td {
+    border-width: 2px;
+    border-color:grey;
+    text-align: center;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
