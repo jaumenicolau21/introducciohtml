@@ -1,0 +1,34 @@
+
+
+
+table{
+    
+    width: 400px;
+   height: 400px;
+}
+td{
+    border: solid black 1px;
+    
+    
+}
+td.top{
+    border-top: 0px;
+    border-bottom: 0px;
+
+}
+td.bottom{
+    border-bottom: 0px;
+    border-top: 0px;
+}
+td.left{
+    border-left: 0px;
+    border-right: 0px;
+}
+td.right{
+    border-right: 0px;
+    border-left: 0px;
+}
+#Left{
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
