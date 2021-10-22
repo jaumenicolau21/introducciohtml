@@ -11,15 +11,15 @@
 }
 
 #menu li {
-background: linear-gradient(to bottom, red, orange);
+background: linear-gradient(to bottom, grey ,white);
 display: inline-block;
 border-radius: 10px;
-box-shadow : 4px 2px yellow
+box-shadow : 4px 2px black
  ;
 
 }
 #menu a {
-    color: yellow;
+    color: black;
     text-decoration: none;
     font-size: 23px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
